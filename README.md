@@ -27,5 +27,5 @@ Contributions, bug reports, and feature requests are highly encouraged. Please d
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [ Apache License](LICENSE).
 
